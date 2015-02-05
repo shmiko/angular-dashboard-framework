@@ -38,7 +38,7 @@ angular.module('adf')
 
         return {
             restrict: "E",
-            replace: true,
+            // replace: true,
             scope: {
                 column: "=",
                 editMode: "@",
